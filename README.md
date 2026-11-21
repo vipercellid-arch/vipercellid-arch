@@ -1,47 +1,54 @@
 <div align="center">
 
-# Hi there, I'm Teves 👋
+# 👋 Hi, I'm Teves
 
-### Android & Web Developer from Maluku, Indonesia 🇮🇩
+### **Android & Web Developer • Maluku, Indonesia 🇮🇩**
 
-*Building modern, expressive mobile experiences & clean web applications.*
+*Crafting expressive Material 3 mobile experiences & clean modern web applications.*
+
+<p>
+  <kbd>📍 Maluku, Indonesia</kbd>
+  <kbd>📱 Android & Web</kbd>
+  <kbd>⚡ GitHub Actions</kbd>
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### ✨ Showcase & Focus
 
-- 🔭 Currently building **Swara** — a modern Android music player built with **Material 3** & **Jetpack Compose**
-- 📍 Based in **Maluku, Indonesia**
-- 💡 Passionate about Android architecture, responsive web interfaces, and automated CI/CD workflows
+- 🎵 **Swara Music** — A modern Android music player built with **Kotlin**, **Jetpack Compose**, and **Material 3**
+- 📱 **Vipercell** — Digital storefront & Android app ecosystem engineered for speed and clean design
+- ⚙️ **Automation** — Streamlined CI/CD workflows & automated APK builds powered by **GitHub Actions**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
+  <p>
+    <kbd>🟣 Kotlin</kbd>
+    <kbd>🔵 Jetpack Compose</kbd>
+    <kbd>🟢 Android</kbd>
+    <kbd>🟠 HTML5</kbd>
+    <kbd>🔷 CSS3</kbd>
+    <kbd>🟡 JavaScript</kbd>
+    <kbd>⚙️ GitHub Actions</kbd>
+  </p>
 </div>
 
 ---
 
-### 🎵 Featured Project
+### 🚀 Featured Projects
 
-- **Swara Music** (`Swara-Music`) — Modern Android music player app built with **Material 3** & **Jetpack Compose**, powered by **InnerTube**, **Monochrome FLAC**, **lrc.red**, and **LRCLib**.
+| Project | Category | Tech Stack | Highlight |
+| :--- | :--- | :--- | :--- |
+| **Swara Music** | Android App | Kotlin, Jetpack Compose, Material 3 | Expressive music player with modern UI & automated APK builds |
+| **Vipercell** | Web & Mobile | HTML5, CSS3, JavaScript, Android | Modern digital store & mobile experience for Vipercell |
 
 ---
 
-### 📊 GitHub Highlights
-
-- **Developer:** Teves (`vipercellid-arch`)
-- **Focus:** Android Development (Kotlin, Jetpack Compose) & Web Development (HTML, CSS, JavaScript)
-- **Automation:** CI/CD APK builds via GitHub Actions
+<div align="center">
+  <sub>Made with ❤️ by <b>Teves</b> in Maluku, Indonesia • <i>Keep building, keep shipping.</i></sub>
+</div>
